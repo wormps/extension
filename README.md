@@ -1,2 +1,2 @@
-sokuk terbiyesiiz panda@gmail.com
+CONNTACT:wormpsps@gmail.com
 

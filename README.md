@@ -1,1 +1,2 @@
-sokuk terbiyesiiz panda
+sokuk terbiyesiiz panda@gmail.com
+

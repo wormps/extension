@@ -1493,14 +1493,14 @@
         },
         {
             "id": 2,
-            "name": "02. OH CLAN<img class='team' src='https://haylamday.com/images/team/OH-CLAN.png'/> <div id='online'></div>",
+            "name": "02.\ud83d\udd34 YT Seko⚡v4<img class='team' src='https://i.imgur.com/FIme4PC.png'/> <div id='online'></div>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
             "status": 1
         },
         {
             "id": 1,
-            "name": "01.\ud83d\udd34 YT Nona Milano<img class='team' src='https://i.imgur.com/RQTKt8G.jpeg'/> <div id='online'></div>",
+            "name": "01.\ud83d\udd34 YT PANDAX<img class='team' src='https://i.imgur.com/FUOpj53.png'/> <div id='online'></div>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
             "status": 1

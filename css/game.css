@@ -148,17 +148,17 @@ body {font-family: vuonghiep; }
 }
 
 #game-wrap #game-cont #background-canvas {
-  width:100%;
-  height:100%;
-  position:absolute;
-  top:0;
-  right:0;
-  bottom:0;
-  left:0;
-  cursor: url(https://i.imgur.com/0zaJ1Jq.png), auto !important;
-  background-image: url(https://i.imgur.com/pWLFzxg.png);
+  width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: url(https://i.imgur.com/pWLFzxg.png);
     background-repeat: no-repeat;
     background-color: #e0e3bf !important;
+    background-size: cover;
     
 }
 
@@ -1085,7 +1085,6 @@ body {font-family: vuonghiep; }
   height:50px;
   line-height:50px;
   font-size:20px;
-  padding:0 10px;
   box-sizing:border-box;
   border-radius:5px;
   border:0;

@@ -19600,7 +19600,7 @@
         {
             "isCustom": true,
             "id": "NSND",
-            "img": "nsnd.png",
+            "img": "seko.png",
             "name": {
                 "en": "NSND"
             },
@@ -19618,7 +19618,7 @@
         {
             "isCustom": true,
             "id": "TH\u01af K\u00dd BIGO",
-            "img": "TH\u01af-K\u00dd-SKINS.png",
+            "img": "pandis.png",
             "name": {
                 "en": "TH\u01af K\u00dd BIGO"
             },
@@ -21064,7 +21064,7 @@
         },
         "nsnd_01": {
             "custom": true,
-            "relativePath": "https:\/\/haylamday.com\/images\/texture\/skin_nsnd\/skin_nsnd_01.png"
+            "relativePath": "https:\/\/i.imgur.com\/3FrrWTB.png"
         },
         "nsnd_02": {
             "custom": true,
@@ -21156,7 +21156,7 @@
         },
         "skin_thu_ky_01": {
             "custom": true,
-            "relativePath": "https:\/\/haylamday.com\/images\/texture\/skin_thu_ky\/skin_thu_ky_01.png"
+            "relativePath": "https:\/\/i.imgur.com\/KN0WSZx.png"
         },
         "skin_thu_ky_02": {
             "custom": true,

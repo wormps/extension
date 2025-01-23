@@ -1,1 +1,1 @@
-sokuk
+sokuk terbiyesiiz panda

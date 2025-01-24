@@ -1,5 +1,5 @@
 
-var SITE_XTHOST = "https://wormps.github.io/extension";
+var SITE_XTHOST = "wormpsgithub.io/extension";
 window.detectLog = null;
 const _wrmxt = {
     BETAisSkinCustom(input) {
@@ -297,7 +297,7 @@ ctx.clock.y = -50;
 
 
 /*server name */
-ctx.value_server = new PIXI.Text("WFC", ctx.fontStyle.name);
+ctx.value_server = new PIXI.Text("WSC", ctx.fontStyle.name);
 ctx.value_server.x = 25;
 ctx.value_server.y = -18;
 
@@ -3600,7 +3600,7 @@ else {
                                 // If the new token is also expired, handle the error as needed
                                 autoLoginCount++;
                                 console.log("auto login attempt:", autoLoginCount);
-                                $("#login-view").html("<h2>Auto Login Google WormPS : " + autoLoginCount + "</h2>");
+                                $("#login-view").html("<h2>Auto Login Google Wormate Serkan Connect : " + autoLoginCount + "</h2>");
                                 fetchNewToken();
                             } else {
                                 handleLoginResponse(opts);
@@ -3622,7 +3622,7 @@ else {
                                 // If the new token is also expired, handle the error as needed
                                 autoLoginCount++;
                                 console.log("auto login attempt:", autoLoginCount);
-                                $("#login-view").html("<h2>Auto Login Google WormPS : "+ autoLoginCount +"</h2>");
+                                $("#login-view").html("<h2>Auto Login Google Wormate Serkan Conncet : "+ autoLoginCount +"</h2>");
                                 fetchNewToken();
                             }else{
                                 handleLoginResponse(opts);
@@ -5562,7 +5562,7 @@ else {
          </div>
         <div class="worm_3">x.<span id="zoom-percentage"></span></div>
         <div class="worm_2">
-        <button id="settingBtn"><img src="https://i.imgur.com/bKAe6W9.png"/></button>
+        <button id="settingBtn"><img src="https://i.imgur.com/f074TPZ.png"/></button>
         <div id="settingContent">
         
         
@@ -5608,7 +5608,7 @@ else {
         var showServers = function () {
 
 
-            $('#mm-event-text').replaceWith('<div class="text-vnxx"><a href="###">WormPS 2025</a></div>');
+            $('#mm-event-text').replaceWith('<div class="text-vnxx"><a href="https://www.facebook.com/profile.php?id=61572063877914">Wormate Serkan Connect 2025</a></div>');
 
           $(".column-right").append(`
           
@@ -5623,7 +5623,7 @@ else {
             
         <div onclick="openPopup()"><i aria-hidden="true" class="fa fa-cog fa-spin" style="color:yellow;font-size: 25px;"> </i> Settings</div>
         <div id="popup" class="popup">
-        <div class="phdr1"><i aria-hidden="true" class="fa fa-cog fa-spin" style="color:yellow;font-size: 25px;"></i> WormPS Settings</div>
+        <div class="phdr1"><i aria-hidden="true" class="fa fa-cog fa-spin" style="color:yellow;font-size: 25px;"></i> Wormate Serkan Settings</div>
         <button class="close-button" onclick="closePopup()">Close</button>
         
                     <div id="kich-hoat">
@@ -5781,18 +5781,17 @@ else {
     
     <input type="button" value="RESPAWN" id="hoisinh" class="fullscreen_respawn">
     
-    <input type="button" value="SKİNLAB" onclick="window.location.href='###'" class="fullscreen_contact">
+    <input type="button" value="SKİNLAB" ###'" class="fullscreen_contact">
     </div> `);
             
             
              $(".mm-merchant-cont").html(`
   <div style="display: flex; justify-content: center; align-items: center;margin-top:10px">
-    <a href="
-https://youtube.com/@panda-tik?si=-9zprUAOVGknj1Fb" target="_blank" style="margin-right: 10px;">
-      <img src="https://i.imgur.com/tzXGkDO.png" alt="nona" width="155">
+    <a href="https://www.youtube.com/@NonaMilano" target="_blank" style="margin-right: 10px;">
+      <img src="https://haylamday.com/images/hiep_img/nona.png" alt="nona" width="155">
     </a>
-    <a href="###" target="_blank">
-      <img src="https://imgur.com/mIKEdP6.png" alt="wfc" width="155">
+    <a href="https://www.facebook.com/profile.php?id=61572063877914" target="_blank">
+      <img src="https://imgur.imgur.com/0h0DvfP.png" alt="wfc" width="155">
     </a>
   </div>`);
             $(document).ready(function () {
@@ -5818,7 +5817,7 @@ https://youtube.com/@panda-tik?si=-9zprUAOVGknj1Fb" target="_blank" style="margi
 
             $('.description-text').replaceWith(`
   <div class="description-text">
-  <div id="title">WormPS</div>
+  <div id="title">Wormate Serkan Connect</div>
   <div class="description-text-hiep">
   <ul style="margin-top: 5px;" class="ui-tabs-nav">
     <li class="ui-tabs-tab ui-tab ui-tab-inactive0 ui-tab-active" style="margin: -5px">
@@ -6379,7 +6378,7 @@ $('#default-cursor-btn').click(function () {
 
             
             $('.description-text').replaceWith('<div class="description-text">');
-            $('.description-text').prepend("<p id='title'>WormPS</p>");
+            $('.description-text').prepend("<p id='title'>Wormate Friends</p>");
             $('#title').after(`<div id="idwormworld" style="text-align: center"><div class='logo'><img src='https://haylamday.com/images/hiep_img/logo.png'/></div>
         <input type="text" value="${theoKzObjects.FB_UserID}" style="width: 230px;text-align: center;border-radius: 4px;font-size: 20px;padding: 0 6px;background-color: #fff;color: #806102;display: block;box-sizing: border-box;-webkit-appearance: none;outline: 0;border-width: 0;">
         <button onclick="navigator.clipboard.writeText('${theoKzObjects.FB_UserID}').then(()=> alert('You ID ${theoKzObjects.FB_UserID} copiado! copied!'));">COPY</button>
@@ -6584,10 +6583,10 @@ $("#background-canvas").replaceWith(`
 <a hreflang="es" href="/es/">Español</a>
 </div></div>
             
-            <a class="link" hreflang="en" href="###>© 2025 WormPS</a>
+            <a class="link" hreflang="en" href="###">© 2025 Wormate Serkan Connect</a>
             
-            <a style="font-size: 17px;font-weight: 600;">WormPs.</a>
-          <a style="font-size: 17px;font-weight: 500;color: #ff0;"> Made with <i class='fa fa-heart animated infinite pulse' style='color:red'></i> in Turkey !</a>
+            <a style="font-size: 17px;font-weight: 600;">###</a>
+          <a style="font-size: 17px;font-weight: 500;color: #ff0;"> Made with <i class='fa fa-heart animated infinite pulse' style='color:red'></i> in Angara 06 !</a>
             </footer>
 
 
@@ -6921,4 +6920,23 @@ isValidHotkey = function (e) {
 
 
 
-console.log("Core 2022 THEO Update 2023");
+console.log("Core 2025 THEO Update 2023");
+         /zoom by yildo.com/
+// "z" tuÅŸuna basÄ±ldÄ±ÄŸÄ±nda zoom iÅŸlemini durdurma fonksiyonu
+
+function stopZoom(event) {
+
+if (event.key === 'z') {
+
+    window.multiplier = 10.00; // BaÅŸlangÄ±Ã§ zoom seviyesine geri dÃ¶n
+
+    window.changedNf();
+
+}
+}
+
+// TuÅŸ olayÄ±nÄ± dinleyiciye baÄŸlama
+
+window.addEventListener('keydown', stopZoom);
+
+           /zoom by yildo.com/

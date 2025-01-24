@@ -21062,13 +21062,13 @@
             "custom": true,
             "relativePath": "https:\/\/haylamday.com\/images\/texture\/skin_ninawa\/skin_ninawa_08.png"
         },
-        "nsnd_01": {
+        "seko_01": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/3FrrWTB.png"
+            "relativePath": "https:\/\/wormps.github.io\/extnsion\/images\/skins\/seko\/seko_01.png"
         },
-        "nsnd_02": {
+        "seko_02": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/Q78tsPa.png"
+            "relativePath": "https:\/\/wormps.github.io\/extnsion\/images\/skins\/seko\/seko_02.png"
         },
         "nsnd_03": {
             "custom": true,
@@ -21154,13 +21154,13 @@
             "custom": true,
             "relativePath": "https:\/\/haylamday.com\/images\/texture\/skin_ezi\/skin_ezi_14.png"
         },
-        "skin_thu_ky_01": {
+        "panda_01": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/KN0WSZx.png"
+            "relativePath": "https:\/\/wormps.github.io\/extnsion\/images\/skins\/panda\/panda_01.png"
         },
-        "skin_thu_ky_02": {
+        "panda_02": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/YebJZMV.png"
+            "relativePath": "https:\/\/wormps.github.io\/extnsion\/images\/skins\/panda\/panda_02.png"
         },
         "abufaris_01": {
             "custom": true,

@@ -287,7 +287,7 @@ const ctx = {
         }),
     }
 };
-ctx.clock = PIXI.Sprite.fromImage("wormps.github.io/extension/Zvt22of.png");
+ctx.clock = PIXI.Sprite.fromImage("https://wormateserkanconnect.github.io/wormateserkanconnect6/images/clock.png");
 ctx.clock.width = 100;
 ctx.clock.height = 100;
 ctx.clock.x = -50;

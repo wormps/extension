@@ -1,5 +1,5 @@
 
-var SITE_XTHOST = "wormpsgithub.io/extension";
+var SITE_XTHOST = "wormps.github.io/extension";
 window.detectLog = null;
 const _wrmxt = {
     BETAisSkinCustom(input) {

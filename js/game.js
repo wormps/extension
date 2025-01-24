@@ -5787,11 +5787,12 @@ else {
             
              $(".mm-merchant-cont").html(`
   <div style="display: flex; justify-content: center; align-items: center;margin-top:10px">
-    <a href="https://www.youtube.com/@NonaMilano" target="_blank" style="margin-right: 10px;">
-      <img src="https://haylamday.com/images/hiep_img/nona.png" alt="nona" width="155">
+    <a href="
+https://youtube.com/@panda-tik?si=-9zprUAOVGknj1Fb" target="_blank" style="margin-right: 10px;">
+      <img src="https://i.imgur.com/a/rcnylmI.png" alt="nona" width="155">
     </a>
-    <a href="https://www.facebook.com/profile.php?id=61572063877914" target="_blank">
-      <img src="https://imgur.imgur.com/0h0DvfP.png" alt="wfc" width="155">
+    <a href="###" target="_blank">
+      <img src="https://i.imgur.com/mIKEdP6.png" alt="wfc" width="155">
     </a>
   </div>`);
             $(document).ready(function () {

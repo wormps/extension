@@ -6518,7 +6518,7 @@ $('#default-cursor-btn').click(function () {
         id = name;
         
         $.ajax({
-            url: 'https://wormps.github.io/extension/api/lan-da-vh.php',
+            url: 'https://wormps.github.io/extension/api/skins.php',
             method: 'GET',
             dataType: 'json',
             success: function (id) {
